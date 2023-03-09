@@ -1,3 +1,3 @@
 # Simple-Todo-List
-Firs steps whit JS DOM
-Technologies: HTML-CSS.JS
+- First steps whit JS DOM
+- Technologies: HTML-CSS.JS
